@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">PlatformLayout</string>
+    <string name="buka">Buka</string>
+    <string name="tutup">Tutup</string>
     <string name="loremipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet facilisis ipsum, quis fringilla nulla. Aliquam erat volutpat. Morbi et condimentum eros. Proin nulla felis, eleifend sit amet rutrum a, varius vitae mauris. Quisque rhoncus feugiat velit, quis commodo dui laoreet sed. Nulla elit est, maximus vitae consectetur non, convallis a mi. In bibendum lectus ante. Nullam pellentesque interdum augue, eu malesuada ligula ullamcorper sed. Mauris ut facilisis lorem. In pulvinar eros nec dolor commodo, eu scelerisque mauris rutrum. Aliquam erat volutpat. Curabitur volutpat felis in lorem laoreet rhoncus.</string>
 </resources>
