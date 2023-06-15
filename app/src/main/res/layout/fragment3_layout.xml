@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:background="@color/midnight_purple"
+    android:background="@color/red_violet"
     android:orientation="vertical">
 
     <TextView
@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:text="Ini Fragment 3"
         android:textSize="24dp"
-        android:textColor="@color/white"
+        android:textColor="@color/material_dynamic_neutral90"
         android:textStyle="bold"/>
 
     <Button
@@ -21,31 +21,31 @@
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:text="buka fragment 1"
-        android:layout_marginTop="16dp"
-        android:backgroundTint="@color/dusty_rose"/>
+        android:textColor="@color/midnight_purple"
+        android:layout_marginTop="16dp"/>
 
     <Button
         android:id="@+id/btnKeFragment2"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:text="buka fragment 2"
-        android:layout_marginTop="16dp"
-        android:backgroundTint="@color/dusty_rose"/>
+        android:textColor="@color/midnight_purple"
+        android:layout_marginTop="16dp"/>
 
     <Button
         android:id="@+id/btnKeFragment3"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:text="buka fragment 3"
-        android:layout_marginTop="16dp"
-        android:backgroundTint="@color/dusty_rose"/>
+        android:textColor="@color/midnight_purple"
+        android:layout_marginTop="16dp"/>
 
     <Button
         android:id="@+id/btnKeMainActivity"
         android:layout_width="250dp"
         android:layout_height="wrap_content"
         android:text="Kembali ke Main Activity"
-        android:layout_marginTop="16dp"
-        android:backgroundTint="@color/dusty_rose"/>
+        android:textColor="@color/midnight_purple"
+        android:layout_marginTop="16dp"/>
 
 </LinearLayout>
